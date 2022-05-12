@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>My favorite things</title>
+    <link rel="stylesheet" href="untitled.css">
+  </head>
+  <body>
+    <header>
+      <h1>Janae's favorite stuff, a story of what Janae is like</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href= "#">Home</a></li>
+        <li><a href= "#">About me</a></li>
+        <li><a href="#">Hobbies</a></li>
+        <li><a href="#">Reflection</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2> Welcome to my page! I'm using this page as practice and a form of my own self expression :) practice, practice, practice, practice right? #womenintech</h2>
+      <h3>What I want out of this project</h3>
+        <p>I really would like to use this site as a chance to better my coding skills. I just started to learn to code in November of 2021, and while I have picked up HTML and some CSS, I really would like to take the opportunity to be very comfortable with these skills while I begin to learn JavaScript. Coding has become a new found love of mine and I'm so happy that it came into my life, this will be one of the first steps to improve my skills to help me get into a bootcamp and start my career!</p>
+      <h3>This seems a little narcissistic</h3>
+        <p>I'm not trying to be totally OBBESSED with myself, but what better topic than the person you know best right? This is going to be a creative project as well.  I realize I'm writing these like it's a journal, but writing like this, 1. helps me with typing, 2. allows me to be more expressive without doing a "business-esc" project. I'll get to those in my portfolio, but this space is just for me. To make mistakes, make it kinda ugly (there's no true "asthetic" because it's not about that) , and make it an experiment. Let's try something new huh?</p>
+      <h3>Closing statement</h3>
+        <p>I'm sure that I'll find something more to add and just add random things in here. In the mean time, if anyone but me is reading this, welcome to my mess.</p>
+    </main>
+    <footer> established 2022! </footer>
+  </body>
+</html>
